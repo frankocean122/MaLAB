@@ -1,0 +1,14 @@
+members:
+- image: /assets/img/people/lihua.jpg
+  name: 李华
+  research: 图神经网络与蛋白质结构预测
+  title: 博士生
+- image: /assets/img/people/wangjie.jpg
+  name: 王杰
+  research: 生成模型与分子性质优化
+  title: 硕士生
+pi:
+  image: /assets/img/people/ma.jpg
+  name: 马大程
+  research: 人工智能驱动的药物设计与分子生成
+  title: 教授 (PI)
